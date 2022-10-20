@@ -1,0 +1,16 @@
+h3{
+    background-color: plum ;
+    width: 100px;
+    height: 30px;
+}
+.header {
+    background-color: pink;
+}
+.kotak{
+    border: 2px solid black;
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 70px;
+    padding: 30px;
+}

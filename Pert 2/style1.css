@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Helvetica;
+    background: rgb(231, 181, 115);
+    padding: 10px;
+}
+.header{
+    padding: 25px;
+    text-align: center;
+    background-color: rgb(255, 233, 184);
+}
+.header h1{
+    font-size: 50px;
+}
+.navigasi{
+    background: rgb(255, 255, 255);
+    overflow: hidden;
+}
+.navigasi a{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+.navigasi a:hover{
+    background-color: rgb(255, 194, 80);
+}
+.left-coloum{
+    float: left;
+    width: 75%;
+}
+.right-coloum{
+    float: left;
+    width: 25%;
+    background-color: rgb(231, 181, 115);
+    padding-left: 20px;
+}
+.card{
+    background-color: rgb(255, 244, 210);
+    padding: 20px;
+    margin-top: 20px;
+}
+.content{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.footer{
+    text-align: center;
+    background-color:rgb(255, 244, 210) ;
+    padding: 20px;
+    margin-top: 10px;
+}

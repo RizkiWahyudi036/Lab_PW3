@@ -1,0 +1,29 @@
+.ten_main{
+--webkit-text-size-adjust: 100%;
+--background-color: #fff;
+--border-color: #ccc;
+--text-color: #555;
+--selected-text-color: #0052D9;
+--hover-background-color: #eee;
+--swiper-theme-color: #007aff;
+--swiper-navigation-size: 44px;
+font-family: 'PingFangSC-Regular', 'helvetica neue', tahoma, 'PingFang SC', 'microsoft yahei', arial, 'hiragino sans gb', sans-serif;
+color: #2b2e2e;
+font-size: 14px;
+line-height: 1.5em;
+-webkit-font-smoothing: antialiased;
+box-sizing: border-box;
+padding: 0;
+max-width: 1200px;
+margin: 0px 24px;
+width: auto;
+}
+.ten_links {
+    padding: 72px 0px 48px 0px;
+    font-family: 'TencentSansw7';
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin-left: -24px;
+}
